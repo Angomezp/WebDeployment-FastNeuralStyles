@@ -1,4 +1,4 @@
-fast_neural_style/neural_style/checkpoints/
-fast_neural_style/neural_style/images/training-images/
-fast_neural_style/neural_style/images/output-images/
+checkpoints/
+images/training-images/
+images/output-images/
 
