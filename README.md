@@ -146,3 +146,8 @@ Johnson, Justin, et al. "Perceptual Losses for Real-Time Style Transfer and Supe
 Ulyanov, Dmitry, et al. "Instance Normalization: The Missing Ingredient for Fast Stylization." (2017).
 
 PyTorch official implementation: [pytorch/examples](https://github.com/pytorch/examples/tree/main/fast_neural_style)
+
+## Made by:
+- [Anamaria Martinez Bohorquez](https://github.com/anamartinezbohorquez).
+- [Leidy Tatiana Sanchez Guarnizo](https://github.com/L-sanchezgu).
+- [Angel David Gomez Pastrana](https://github.com/Angomezp).
