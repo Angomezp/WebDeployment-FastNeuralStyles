@@ -133,7 +133,10 @@ streamlit run main.py
 
 Example:
 
-Original	Stylized (Monet)
+| Original | Stylized(Michelangelo) |
+|--------|--------|
+| ![Original](images/content-images/content.jpg) | ![Stylized(Michelangelo)](images/output-images/michelangelo-content.jpg) |
+
 
 	
 ## 📚 References
